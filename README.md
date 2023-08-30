@@ -1,6 +1,6 @@
-# Ring Dashboard Desktop App
+<img src="https://github.com/Jeffrey-Vink/Ring/blob/master/Ring/ring_logo.ico" width="150">
 
-![App Logo](Ring/ring_logo.ico)
+# Ring Dashboard Desktop App
 
 Welcome to the Ring Dashboard Desktop App! This application allows you to access and interact with your Ring home security and digital doorbell dashboard from your desktop.
 
